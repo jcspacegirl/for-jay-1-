@@ -1,0 +1,26 @@
+[
+    {
+        "image": "../assets/lesssnacks.png",
+        "name": "Eat fewers snacks! Wait for the meal!"
+    },
+    {
+        "image": "../assets/sharefood.png",
+        "name": "Share your food if you know you have too much."
+    },
+    {
+        "image": "../assets/storefood.png",
+        "name": "If I cannot finish my food, I will store it for tomorrow!"
+    },
+    {
+        "image": "../assets/discolouredfood.png",
+        "name": "Ugly foods are just as tasty! But do check if it's rotten."
+    },
+    {
+        "image": "../assets/expirydate.png",
+        "name": "Do not buy too much food! We should check expiry dates."
+    },
+    {
+        "image": "../assets/lessportion.png",
+        "name": "I should always get smaller portions than big portions if I do not feel hungry."
+    }
+]
